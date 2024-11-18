@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LEARN\\QLKTXA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6719A7E4-B6DA-4EF9-81B8-1DF04DEB8A49}|QLKTXA\\QLKTXA.csproj|D:\\LEARN\\QLKTXA\\qlktxa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6719A7E4-B6DA-4EF9-81B8-1DF04DEB8A49}|QLKTXA\\QLKTXA.csproj|solutionrelative:qlktxa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6719A7E4-B6DA-4EF9-81B8-1DF04DEB8A49}|QLKTXA\\QLKTXA.csproj|D:\\LEARN\\QLKTXA\\qlktxa\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6719A7E4-B6DA-4EF9-81B8-1DF04DEB8A49}|QLKTXA\\QLKTXA.csproj|solutionrelative:qlktxa\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6719A7E4-B6DA-4EF9-81B8-1DF04DEB8A49}|QLKTXA\\QLKTXA.csproj|D:\\LEARN\\QLKTXA\\qlktxa\\qlhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6719A7E4-B6DA-4EF9-81B8-1DF04DEB8A49}|QLKTXA\\QLKTXA.csproj|solutionrelative:qlktxa\\qlhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6719A7E4-B6DA-4EF9-81B8-1DF04DEB8A49}|QLKTXA\\QLKTXA.csproj|d:\\learn\\qlktxa\\qlktxa\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6719A7E4-B6DA-4EF9-81B8-1DF04DEB8A49}|QLKTXA\\QLKTXA.csproj|solutionrelative:qlktxa\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6719A7E4-B6DA-4EF9-81B8-1DF04DEB8A49}|QLKTXA\\QLKTXA.csproj|D:\\LEARN\\QLKTXA\\qlktxa\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6719A7E4-B6DA-4EF9-81B8-1DF04DEB8A49}|QLKTXA\\QLKTXA.csproj|solutionrelative:qlktxa\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6719A7E4-B6DA-4EF9-81B8-1DF04DEB8A49}|QLKTXA\\QLKTXA.csproj|D:\\LEARN\\QLKTXA\\qlktxa\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6719A7E4-B6DA-4EF9-81B8-1DF04DEB8A49}|QLKTXA\\QLKTXA.csproj|solutionrelative:qlktxa\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6719A7E4-B6DA-4EF9-81B8-1DF04DEB8A49}|QLKTXA\\QLKTXA.csproj|D:\\LEARN\\QLKTXA\\qlktxa\\qlkl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6719A7E4-B6DA-4EF9-81B8-1DF04DEB8A49}|QLKTXA\\QLKTXA.csproj|solutionrelative:qlktxa\\qlkl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6719A7E4-B6DA-4EF9-81B8-1DF04DEB8A49}|QLKTXA\\QLKTXA.csproj|D:\\LEARN\\QLKTXA\\qlktxa\\qlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6719A7E4-B6DA-4EF9-81B8-1DF04DEB8A49}|QLKTXA\\QLKTXA.csproj|solutionrelative:qlktxa\\qlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6719A7E4-B6DA-4EF9-81B8-1DF04DEB8A49}|QLKTXA\\QLKTXA.csproj|D:\\LEARN\\QLKTXA\\qlktxa\\qlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6719A7E4-B6DA-4EF9-81B8-1DF04DEB8A49}|QLKTXA\\QLKTXA.csproj|solutionrelative:qlktxa\\qlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QLKL.cs [Design]",
+              "DocumentMoniker": "D:\\LEARN\\QLKTXA\\QLKTXA\\QLKL.cs",
+              "RelativeDocumentMoniker": "QLKTXA\\QLKL.cs",
+              "ToolTip": "D:\\LEARN\\QLKTXA\\QLKTXA\\QLKL.cs [Design]",
+              "RelativeToolTip": "QLKTXA\\QLKL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:33:38.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QLHD.cs [Design]",
+              "DocumentMoniker": "D:\\LEARN\\QLKTXA\\QLKTXA\\QLHD.cs",
+              "RelativeDocumentMoniker": "QLKTXA\\QLHD.cs",
+              "ToolTip": "D:\\LEARN\\QLKTXA\\QLKTXA\\QLHD.cs [Design]",
+              "RelativeToolTip": "QLKTXA\\QLHD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:33:36.384Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LEARN\\QLKTXA\\QLKTXA\\Program.cs",
+              "RelativeDocumentMoniker": "QLKTXA\\Program.cs",
+              "ToolTip": "D:\\LEARN\\QLKTXA\\QLKTXA\\Program.cs",
+              "RelativeToolTip": "QLKTXA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:33:34.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dangnhap.cs",
+              "DocumentMoniker": "D:\\LEARN\\QLKTXA\\QLKTXA\\Dangnhap.cs",
+              "RelativeDocumentMoniker": "QLKTXA\\Dangnhap.cs",
+              "ToolTip": "D:\\LEARN\\QLKTXA\\QLKTXA\\Dangnhap.cs",
+              "RelativeToolTip": "QLKTXA\\Dangnhap.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAApwDIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:32:56.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dangnhap.cs [Design]",
+              "DocumentMoniker": "D:\\LEARN\\QLKTXA\\QLKTXA\\Dangnhap.cs",
+              "RelativeDocumentMoniker": "QLKTXA\\Dangnhap.cs",
+              "ToolTip": "D:\\LEARN\\QLKTXA\\QLKTXA\\Dangnhap.cs [Design]",
+              "RelativeToolTip": "QLKTXA\\Dangnhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:32:54.846Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\LEARN\\QLKTXA\\QLKTXA\\DataAccess.cs",
+              "RelativeDocumentMoniker": "QLKTXA\\DataAccess.cs",
+              "ToolTip": "D:\\LEARN\\QLKTXA\\QLKTXA\\DataAccess.cs",
+              "RelativeToolTip": "QLKTXA\\DataAccess.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:18:26.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "D:\\LEARN\\QLKTXA\\QLKTXA\\Menu.cs",
+              "RelativeDocumentMoniker": "QLKTXA\\Menu.cs",
+              "ToolTip": "D:\\LEARN\\QLKTXA\\QLKTXA\\Menu.cs [Design]",
+              "RelativeToolTip": "QLKTXA\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:52:29.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QLSV.cs",
+              "DocumentMoniker": "D:\\LEARN\\QLKTXA\\QLKTXA\\QLSV.cs",
+              "RelativeDocumentMoniker": "QLKTXA\\QLSV.cs",
+              "ToolTip": "D:\\LEARN\\QLKTXA\\QLKTXA\\QLSV.cs",
+              "RelativeToolTip": "QLKTXA\\QLSV.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:36:49.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QLSV.cs [Design]",
+              "DocumentMoniker": "D:\\LEARN\\QLKTXA\\QLKTXA\\QLSV.cs",
+              "RelativeDocumentMoniker": "QLKTXA\\QLSV.cs",
+              "ToolTip": "D:\\LEARN\\QLKTXA\\QLKTXA\\QLSV.cs [Design]",
+              "RelativeToolTip": "QLKTXA\\QLSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:48:43.19Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
